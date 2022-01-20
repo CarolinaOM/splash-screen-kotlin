@@ -1,4 +1,4 @@
-# Splash Screen realizado en kotilin
+# 📱 Splash Screen realizado en kotilin
 
 <p>
 
